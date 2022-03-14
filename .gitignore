@@ -1,0 +1,7 @@
+terraform.exe
+oci-key.pem
+joealftberg.oci
+oci-key.pem
+.terraform.lock.hcl
+joelalftberg.oci
+.terraform/providers/registry.terraform.io/hashicorp/oci/4.67.0/windows_amd64/terraform-provider-oci_v4.67.0_x4.exe
