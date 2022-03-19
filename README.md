@@ -1,5 +1,5 @@
 # terraform-oci-infra
-Basic two database infrastructure with oci and terraform
+Basic configuration files for setting up Oracle DBs in OCI
 
 ## Terraform init - OCI provider
 
